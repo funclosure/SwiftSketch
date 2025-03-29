@@ -1,3 +1,5 @@
+![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)
+
 # Swift Sketch
 
 A modern Swift code and project scaffolding tool that helps you quickly create structured Swift packages and projects with sensible defaults.
